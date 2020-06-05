@@ -22,7 +22,7 @@
     "graphql": "^0.11.1",
     "graphql-server-express": "^1.1.2",
     "graphql-tools": "^1.2.1",
-    "sequelize": "^4.7.5",
+    "sequelize": "^5.15.1",
     "sqlite3": "^4.2.0"
   },
   "devDependencies": {
