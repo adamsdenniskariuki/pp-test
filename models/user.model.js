@@ -11,7 +11,6 @@ export default function (sequelize) {
     {
       createdAt: false,
       updatedAt: false,
-      paranoid: true,
     }
   );
 
